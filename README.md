@@ -40,5 +40,5 @@ Archivo principal: [PI-Data.pbix](PI-Data.pbix)
 <br>Los años en los que la tasa de accidentes de motociclistas bajó al menos un 7% fueron 2017, 2019 y 2020.
 ![image](https://github.com/DanielBossio/PI-Data/assets/51429745/792152db-ebaf-4d6e-838b-e0ab8cc8f6ee)<br>
 **Tasa de accidentes de menores de edad y ancianos**
-<br>Los semestres en los que la tasa de accidentes de menores de edad y ancianos bajó al menos un 7% fueron 2017-1, 2019-1, 2019-2, 2020-1 y 2021-2.
+<br>Los semestres en los que la tasa de accidentes de menores de edad y ancianos bajó al menos un 7% fueron 2017-1, 2019-1, 2019-2, 2020-1 y 2021-2.<br>
 ![image](https://github.com/DanielBossio/PI-Data/assets/51429745/8af27e41-27c1-4b04-8b23-9d87f7890dac)
