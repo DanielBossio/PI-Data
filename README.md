@@ -2,7 +2,7 @@
 ## Proyecto Individual #2
 ## Bootcamp Data Science - Henry
 ## *Daniel Andrés Bossio Pérez - DataFT21*
-#1. ETL + EDA
+# 1. ETL + EDA
 Archivo principal: [PIData-EDA](PIData-EDA.ipynb)<br>
 Se proporcionó un archivo excel ([homicidios.xlsx](datasets_origen/homicidios.xlsx)) con dos hojas: una para los hechos que constituyen homicidio por siniestro vial, y otro para las víctimas de los mismos.<br>
 *Para los homicidios:*
@@ -21,9 +21,9 @@ Además se consultaron algunos otros datos disponibles:
 - Observaciones de factores de riesgo vial ([autos](datasets_origen/base_obs_autos_2022.xlsx), [motos](base_obs_motos_2022.xlsx)): Estos archivos contienen los resultados de los estudios observacionales de factores de riesgo vial llevados a cabo por el Observatorio de Movilidad y Seguridad Vial en el año 2022. Se enfocan en aspectos como las distracciones al conducir, uso del cinturón/casco e implementacion de medidas de protección adecuadas. En ambos casos se realizó una revisión de nulos, imputación de datos geográficos faltantes y mapeo de valores según lo indicado en el archivo [diccionario_obs](datasets_origen/diccionario_obs_2022.xlsx).
 - Archivo geojson de las comunas de Argentina ([comunas](datasets_origen/comunas.geojson)), usado en el EDA para asociar patrones relacionados con las comunas.
 - Flujo vehicular ([flujo_vehicular](datasets_origen/dataset_flujo_vehicular.xlsx)): Resumen del flujo vehicular registrado por 7 sensores. Debido a que se consideró que no brindarían información aplicable a toda la ciudad, no se utilizó esta información en el dashboard en Power BI, aunque se hizo su análisis en el EDA.
-#2. Archivos
+# 2. Archivos
 Los datasets procesados están en la carpeta [datasets](datasets). Se tiene un archivo csv y un volcado de base de datos MySQL para cada uno de los siguientes conjuntos de datos: homicidios, víctimas, observaciones de seguridad para autos y para motos.
-#3. Dashboard y KPIs
+# 3. Dashboard y KPIs
 Archivo principal: [PI-Data.pbix](PI-Data.pbix)
 <br>En cuanto al análisis de los datos, puede destacarse que:
 - Hay más víctimas de hechos en los años 2016, 2017 y 2018 que en 2019, 2020 y 2021. Por otra parte, hay un pico en Diciembre de 2020.
